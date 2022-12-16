@@ -1,0 +1,27 @@
+.modalForm input{
+    /* display: block; */
+    /* text-align: left; */
+    width: 100%;
+    margin: 10px auto;
+    padding: 10px;
+    box-sizing: border-box;
+    border-radius: 40px;
+    /* font-size: 1.2em; */
+}
+
+.modalForm label{
+    display: block;
+    text-align: left;
+    font-size: 1.2em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.btnAdd{
+    background: rgb(85, 144, 85);
+    color: #fff;
+    padding: 10px;
+    margin: 10px auto;
+    border-radius: 4px;
+    border: none;
+    cursor: pointer;
+}
