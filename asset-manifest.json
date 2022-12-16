@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AtumaDavid.github.io/addEventReact/static/css/main.99039ab0.css",
+    "main.js": "/AtumaDavid.github.io/addEventReact/static/js/main.f398e2d9.js",
+    "index.html": "/AtumaDavid.github.io/addEventReact/index.html",
+    "main.99039ab0.css.map": "/AtumaDavid.github.io/addEventReact/static/css/main.99039ab0.css.map",
+    "main.f398e2d9.js.map": "/AtumaDavid.github.io/addEventReact/static/js/main.f398e2d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99039ab0.css",
+    "static/js/main.f398e2d9.js"
+  ]
+}
