@@ -15,6 +15,7 @@ function App() {
     setEvents((prevEvents) => {
       return [...prevEvents, event];
     });
+    //after adding event, modal automatically goes away
     setShowModal(false);
   };
 
